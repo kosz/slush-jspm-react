@@ -2,6 +2,7 @@
 
 > Slush generator for React js under a JSPM environment and Babel+jsx transpiler
 
+[![Stories in Ready](https://badge.waffle.io/kosz/slush-jspm-react.svg?label=ready&title=Ready)](http://waffle.io/kosz/slush-jspm-react)
 
 ## Getting Started
 
