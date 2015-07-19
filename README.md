@@ -25,6 +25,12 @@ Run the generator from within the new folder:
 $ cd my-project && slush jspm-react
 ```
 
+Run jspm install
+
+```bash
+$ jspm install
+```
+
 Then run the server
 
 ```bash
