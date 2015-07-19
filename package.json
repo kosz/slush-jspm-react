@@ -1,22 +1,22 @@
 {
-    "name": "slush-slush-jspm-react",
+    "name": "slush-jspm-react",
     "description": "Slush generator for React js under a JSPM environment and Babel+jsx transpiler",
     "version": "0.0.1",
-    "homepage": "https://github.com/kosz/slush-slush-jspm-react",
+    "homepage": "https://github.com/kosz/slush-jspm-react",
     "author": {
         "name": "Cosmin Ronnin",
         "email": "coszmin@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/kosz/slush-slush-jspm-react.git"
+        "url": "git://github.com/kosz/slush-jspm-react.git"
     },
     "bugs": {
-        "url": "https://github.com/kosz/slush-slush-jspm-react/issues"
+        "url": "https://github.com/kosz/slush-jspm-react/issues"
     },
     "licenses": [{
         "type": "MIT",
-        "url": "https://github.com/kosz/slush-slush-jspm-react/blob/master/LICENSE"
+        "url": "https://github.com/kosz/slush-jspm-react/blob/master/LICENSE"
     }],
     "main": "slushfile.js",
     "engines": {

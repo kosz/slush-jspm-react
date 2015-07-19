@@ -1,6 +1,6 @@
 /*
- * slush-slush-jspm-react
- * https://github.com/kosz/slush-slush-jspm-react
+ * slush-jspm-react
+ * https://github.com/kosz/slush-jspm-react
  *
  * Copyright (c) 2015, Cosmin Ronnin
  * Licensed under the MIT license.

@@ -1,14 +1,14 @@
-# Slush Slush-jspm-react [![Build Status](https://secure.travis-ci.org/kosz/slush-slush-jspm-react.png?branch=master)](https://travis-ci.org/kosz/slush-slush-jspm-react) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-jspm-react.png)](http://badges.enytc.com/for/npm/slush-slush-jspm-react)
+# Slush jspm-react [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-jspm-react.png)](http://badges.enytc.com/for/npm/slush-slush-jspm-react)
 
 > Slush generator for React js under a JSPM environment and Babel+jsx transpiler
 
 
 ## Getting Started
 
-Install `slush-slush-jspm-react` globally:
+Install `slush-jspm-react` globally:
 
 ```bash
-$ npm install -g slush-slush-jspm-react
+$ npm install -g slush-jspm-react
 ```
 
 ### Usage
@@ -16,14 +16,21 @@ $ npm install -g slush-slush-jspm-react
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-jspm-react
+$ mkdir my-project
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-jspm-react && slush slush-jspm-react
+$ cd my-project && slush jspm-react
 ```
+
+Then run the server
+
+```bash
+$ node server
+```
+
 ## License 
 
 MIT License
