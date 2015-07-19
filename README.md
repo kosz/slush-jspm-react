@@ -1,4 +1,4 @@
-# Slush jspm-react [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-slush-jspm-react.png)](http://badges.enytc.com/for/npm/slush-slush-jspm-react)
+# Slush jspm-react [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-jspm-react.png)](http://badges.enytc.com/for/npm/slush-jspm-react) [![Code Climate](https://codeclimate.com/github/kosz/slush-jspm-react/badges/gpa.svg)](https://codeclimate.com/github/kosz/slush-jspm-react)
 
 > Slush generator for React js under a JSPM environment and Babel+jsx transpiler
 
